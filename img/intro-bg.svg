@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="261px" height="312px" viewBox="0 0 261 312" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Untitled</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="5" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="5" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="5" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path id="path-4" d="M0,44.8886547 L96.9779888,44.8886547 L96.9779888,0 L0,0 L0,44.8886547 L0,44.8886547 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M68.4034485,137.332866 C70.3397015,127.01894 80.2757741,117.087205 90.5843594,115.151955 L196.364272,95.2936893 C206.678198,93.3574363 213.928814,100.212167 212.556781,110.620821 L197.722803,223.155775 C196.351753,233.556969 186.815923,243.099276 176.407269,244.471309 L63.8723151,259.305287 C53.4711209,260.676337 46.6099328,253.421364 48.5451832,243.112778 L68.4034485,137.332866 Z" id="Rectangle-1-Copy-2" fill-opacity="0.800000012" fill="#D0011B" filter="url(#filter-1)" transform="translate(130.470964, 177.219056) rotate(45.000000) translate(-130.470964, -177.219056) "></path>
+        <path d="M68.4034485,111.332866 C70.3397015,101.01894 80.2757741,91.087205 90.5843594,89.1519546 L196.364272,69.2936893 C206.678198,67.3574363 213.928814,74.2121675 212.556781,84.6208211 L197.722803,197.155775 C196.351753,207.556969 186.815923,217.099276 176.407269,218.471309 L63.8723151,233.305287 C53.4711209,234.676337 46.6099328,227.421364 48.5451832,217.112778 L68.4034485,111.332866 Z" id="Rectangle-1-Copy" fill="#F6A623" opacity="0.850000024" filter="url(#filter-2)" transform="translate(130.470964, 151.219056) rotate(45.000000) translate(-130.470964, -151.219056) "></path>
+        <path d="M68.4034485,84.3328655 C70.3397015,74.0189397 80.2757741,64.087205 90.5843594,62.1519546 L196.364272,42.2936893 C206.678198,40.3574363 213.928814,47.2121675 212.556781,57.6208211 L197.722803,170.155775 C196.351753,180.556969 186.815923,190.099276 176.407269,191.471309 L63.8723151,206.305287 C53.4711209,207.676337 46.6099328,200.421364 48.5451832,190.112778 L68.4034485,84.3328655 Z" id="Rectangle-1" fill-opacity="0.850000024" fill="#F8E81C" opacity="0.99000001" filter="url(#filter-3)" transform="translate(130.470964, 124.219056) rotate(45.000000) translate(-130.470964, -124.219056) "></path>
+        <g id="Haskell-Logo" transform="translate(82.000000, 102.000000)">
+            <g id="surface0">
+                <g id="Clipped">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <g id="Shape"></g>
+                    <g id="Group" mask="url(#mask-5)">
+                        <path d="M0,44.8886547 L22.8184891,22.4443273 L0,0 L17.1136702,0 L39.9321592,22.4443273 L17.1136702,44.8886547 L0,44.8886547 L0,44.8886547 Z" id="Shape" fill="#666666"></path>
+                        <path d="M22.8184891,44.8886547 L45.6369782,22.4443273 L22.8184891,0 L39.9321592,0 L85.5683512,44.8886547 L68.454681,44.8886547 L54.1938133,30.8612078 L39.9321592,44.8886547 L22.8184891,44.8886547 L22.8184891,44.8886547 Z" id="Shape" fill="#999999"></path>
+                        <path d="M77.9627124,31.7963022 L70.3570734,24.3150316 L96.9779888,24.3145161 L96.9779888,31.7963022 L77.9627124,31.7963022 L77.9627124,31.7963022 Z" id="Shape" fill="#666666"></path>
+                        <path d="M66.553861,20.5741386 L58.9474357,13.092868 L96.9779888,13.0923525 L96.9779888,20.5741386 L66.553861,20.5741386 L66.553861,20.5741386 Z" id="Shape" fill="#666666"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
